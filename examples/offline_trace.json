@@ -1,0 +1,26 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "inventory_researcher",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "inventory_researcher",
+    "elapsed_seconds": 0.00029
+  },
+  {
+    "sequence": 3,
+    "kind": "stage_started",
+    "stage": "writer",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 4,
+    "kind": "stage_finished",
+    "stage": "writer",
+    "elapsed_seconds": 3e-05
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "lesson": 33,
+  "title": "Add Tools and External Capabilities",
+  "application": "Inventory Specialist with a Tool",
+  "purpose": "Assign an inventory capability to the research stage and pass its checked observation to a writer with no tools.",
+  "exercise": "Ask for an unknown SKU, then inspect which stage can use the custom tool.",
+  "source_topics": [
+    "00-Herramientas para Agentes Multiagente.png",
+    "01-Assign-Tools-by-Responsibility.png",
+    "02-Configure-Built-In-Tools.png",
+    "03-Define-a-Real-Python-Tool.png",
+    "04-Register-the-Tool-Through-MCP.png",
+    "05-Trace-Tool-Requests-and-Results.png",
+    "06-Make-External-Tools-Dependable.png"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "lesson": 33,
+  "application": "Inventory Specialist with a Tool",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "observation": {
+      "sku": "BOOK-02",
+      "units": 7,
+      "source": "local inventory fixture"
+    },
+    "findings": {
+      "sku": "BOOK-02",
+      "units": 7,
+      "source": "local inventory fixture"
+    },
+    "answer": "BOOK-02 has 7 units in the fixture. Delivery availability is unknown."
+  },
+  "measured_cost_usd": null
+}
